@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs').promises
 
-const apiKey = '5DCSCT4M43SKCBYFXG46VSG2YCRU7M25MH';
+const apiKey = '';
 const contractAddress = '0x378E1BE15BE6d6D1f23Cfe7090b6a77660dBF14d';
 const walletsFile = 'wallets.txt';
 
